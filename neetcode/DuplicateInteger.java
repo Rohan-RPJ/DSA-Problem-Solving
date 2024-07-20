@@ -1,5 +1,5 @@
 /*
-  Problem: Duplicate Integer
+  Problem: Contains Duplicate
   Link: https://neetcode.io/problems/duplicate-integer
   
   Problem Statement:
