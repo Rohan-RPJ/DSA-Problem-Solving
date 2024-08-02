@@ -1,6 +1,6 @@
 /*
   Problem: Is Anagram
-  Link: https://neetcode.io/problems/is-anagram
+  Link: https://neetcode.io/problems/is-anagram, https://leetcode.com/problems/valid-anagram
 
   Problem Statement:
   Given two strings s and t, return true if the two strings are anagrams of each other, otherwise return false.
