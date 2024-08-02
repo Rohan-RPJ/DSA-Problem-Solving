@@ -1,6 +1,6 @@
 /*
   Problem: Two Integer Sum
-  Link: https://neetcode.io/problems/two-integer-sum
+  Link: https://neetcode.io/problems/two-integer-sum, https://leetcode.com/problems/two-sum
 
   Problem Statement:
   Given an array of integers nums and an integer target, return the indices i and j such that nums[i] + nums[j] == target and i != j.
