@@ -1,6 +1,6 @@
 /*
 Problem: Products of Array Discluding Self
-Link: https://neetcode.io/problems/products-of-array-discluding-self
+Link: https://neetcode.io/problems/products-of-array-discluding-self, https://leetcode.com/problems/product-of-array-except-self
 
 Problem Statement:
 Given an integer array nums, return an array output where output[i] is the product of all the elements of nums except nums[i].
