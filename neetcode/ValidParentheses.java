@@ -1,6 +1,6 @@
 /*
   Problem: Valid Parentheses
-  Link: https://neetcode.io/problems/validate-parentheses
+  Link: https://neetcode.io/problems/validate-parentheses, https://leetcode.com/problems/valid-parentheses
 
   Problem Statement:  
   You are given a string s consisting of the following characters: '(', ')', '{', '}', '[' and ']'.
