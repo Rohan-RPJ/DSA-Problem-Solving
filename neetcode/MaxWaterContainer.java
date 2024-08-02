@@ -1,6 +1,6 @@
 /*
   Problem: Max Water Container
-  Link: https://neetcode.io/problems/max-water-container
+  Link: https://neetcode.io/problems/max-water-container, https://leetcode.com/problems/container-with-most-water
 
   Problem Statement:
   You are given an integer array heights where heights[i] represents the height of the 𝑖th bar.
