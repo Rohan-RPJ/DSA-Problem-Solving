@@ -1,6 +1,6 @@
 /*
   Problem: Anagram Groups
-  Link: https://neetcode.io/problems/anagram-groups
+  Link: https://neetcode.io/problems/anagram-groups, https://leetcode.com/problems/group-anagrams
 
   Problem Statement:
   Given an array of strings strs, group all anagrams together into sublists. You may return the output in any order.
