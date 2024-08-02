@@ -1,6 +1,6 @@
 /*
   Problem: Is Palindrome
-  Link: https://neetcode.io/problems/is-palindrome
+  Link: https://neetcode.io/problems/is-palindrome, https://leetcode.com/problems/valid-palindrome
   
   Problem Statement: 
   Given a string s, return true if it is a palindrome, otherwise return false.
