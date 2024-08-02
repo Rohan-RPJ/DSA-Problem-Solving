@@ -1,6 +1,6 @@
 /*
   Problem: Top K Elements in List
-  Link: https://neetcode.io/problems/top-k-elements-in-list
+  Link: https://neetcode.io/problems/top-k-elements-in-list, https://leetcode.com/problems/top-k-frequent-elements
 
   Problem Statement:
   Given an integer array nums and an integer k, return the k most frequent elements within the array.
