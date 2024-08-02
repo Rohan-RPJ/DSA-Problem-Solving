@@ -1,6 +1,6 @@
 /*
   Problem: Contains Duplicate
-  Link: https://neetcode.io/problems/duplicate-integer
+  Link: https://neetcode.io/problems/duplicate-integer, https://leetcode.com/problems/contains-duplicate
   
   Problem Statement:
   Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.  
