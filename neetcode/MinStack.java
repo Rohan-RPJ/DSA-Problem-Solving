@@ -1,6 +1,6 @@
 /*
   Problem: Min Stack
-  Link: https://neetcode.io/problems/minimum-stack
+  Link: https://neetcode.io/problems/minimum-stack, https://leetcode.com/problems/min-stack
 
   Problem Statement: 
   Design a stack class that supports the push, pop, top, and getMin operations.
