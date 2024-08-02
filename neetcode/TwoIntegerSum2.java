@@ -1,6 +1,6 @@
 /*
   Problem: Two Integer Sum II
-  Link: https://neetcode.io/problems/two-integer-sum-ii
+  Link: https://neetcode.io/problems/two-integer-sum-ii, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 
   Problem Statement:
   Given an array of integers numbers that is sorted in non-decreasing order.
