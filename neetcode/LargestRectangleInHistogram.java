@@ -2,6 +2,7 @@
   Problem: Largest Rectangle in Historgram
   Link: https://neetcode.io/problems/largest-rectangle-in-histogram, https://leetcode.com/problems/largest-rectangle-in-histogram/
 
+  Problem Statement:
   Largest Rectangle In Histogram
 
   You are given an array of integers heights where heights[i] represents the height of a bar. The width of each bar is 1.
