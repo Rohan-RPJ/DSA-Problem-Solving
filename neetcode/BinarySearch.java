@@ -1,6 +1,6 @@
 /*
   Problem: Binary Search
-  Link: https://neetcode.io/problems/binary-search, 
+  Link: https://neetcode.io/problems/binary-search, https://leetcode.com/problems/binary-search/
 
   Problem Statement: 
   Binary Search
